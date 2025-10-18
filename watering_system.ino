@@ -9,7 +9,7 @@ pinMode(7, OUTPUT);
  void loop()
  {
  val = analogRead(A0);
-  
+ 
  Serial.println(val);
  delay(50);
  if (val >= 700)
