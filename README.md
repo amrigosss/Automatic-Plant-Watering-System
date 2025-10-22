@@ -3,7 +3,7 @@ Automatic Plant Watering System
 An Arduino-based project that automatically waters plants based on soil moisture levels. 
 This project reduces water waste and keeps plants healthy without the need for manual watering.
  
---- 
+---  
  
  Features
 - Monitors soil moisture in real-time.
