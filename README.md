@@ -18,7 +18,7 @@ Components Used
 - Arduino Uno (or compatible board)
 - Soil Moisture Sensor
 - Relay Module
-- Water Pump
+- Water Pump 
 - Power Supply (5V/12V depending on pump)
 - Breadboard, Jumper Wires, Resistors, Diode
 - Water reservoir & tubing
