@@ -11,7 +11,7 @@ This project reduces water waste and keeps plants healthy without the need for m
 - Automatically turns off pump when moisture is sufficient.
 - Prevents both overwatering and underwatering.
 - Energy and water-efficient.
-     
+
 --- 
 
 Components Used
