@@ -23,7 +23,7 @@ Components Used
 - Breadboard, Jumper Wires, Resistors, Diode
 - Water reservoir & tubing
 
----
+--- 
 
  How It Works
 1. A **soil moisture sensor** is inserted into the soil near the plant.  
