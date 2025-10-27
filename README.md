@@ -24,7 +24,7 @@ Components Used
 - Water reservoir & tubing
 
 --- 
-
+ 
  How It Works
 1. A **soil moisture sensor** is inserted into the soil near the plant.  
 2. The **Arduino microcontroller** reads the sensor data.  
