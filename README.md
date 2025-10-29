@@ -12,7 +12,7 @@ This project reduces water waste and keeps plants healthy without the need for m
 - Prevents both overwatering and underwatering.
 - Energy and water-efficient.
 
----  
+---   
 
 Components Used
 - Arduino Uno (or compatible board)
