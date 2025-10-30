@@ -13,7 +13,7 @@ This project reduces water waste and keeps plants healthy without the need for m
 - Energy and water-efficient.
 
 ---
-
+ 
 Components Used
 - Arduino Uno (or compatible board)
 - Soil Moisture Sensor
