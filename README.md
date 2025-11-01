@@ -5,7 +5,7 @@ This project reduces water waste and keeps plants healthy without the need for m
   
 ---    
   
- Features
+ Features 
 - Monitors soil moisture in real-time.
 - Activates water pump when soil is dry.
 - Automatically turns off pump when moisture is sufficient.
