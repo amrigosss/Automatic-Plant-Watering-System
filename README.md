@@ -4,7 +4,7 @@ An Arduino-based project that automatically waters plants based on soil moisture
 This project reduces water waste and keeps plants healthy without the need for manual watering.
   
 ---      
-
+ 
  Features 
 - Monitors soil moisture in real-time.
 - Activates water pump when soil is dry.
